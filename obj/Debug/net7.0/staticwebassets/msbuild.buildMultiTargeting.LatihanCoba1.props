@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LatihanCoba1.props" />
+</Project>
